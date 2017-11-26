@@ -1,5 +1,5 @@
 <?php
 /**
  * Plugin Name: Dummy Plugin
- * Version: 1.1.0
+ * Version: 1.2.0
  */
